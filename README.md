@@ -15,5 +15,5 @@ los 3 ficheros (2 js y 1 css), renombrarlos y poner exactamente la ruta en el sc
 <link href="https://www.madrid.es/Datelematica/chatbotlm/css/nttbot.css" rel="stylesheet">
 <div id="root"></div>
 <script>xxxxxxxx</script>
-<script src=".https://www.madrid.es/Datelematica/chatbotlm/scripts/nttbotuno.js"></script>
+<script src="https://www.madrid.es/Datelematica/chatbotlm/scripts/nttbotuno.js"></script>
 <script src="https://www.madrid.es/Datelematica/chatbotlm/scripts/nttbotdos.js"></script>
